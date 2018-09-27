@@ -29,18 +29,18 @@
 }
 .col-2 {
   float: left;
-  width: 32%;
+  width: 30%;
 }
 
 .col-1b{
   float: left;
-  width: 33%;
+  width: 30%;
 }
 .col-3{
  display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 30%;
 }
 
 .clearfix {
