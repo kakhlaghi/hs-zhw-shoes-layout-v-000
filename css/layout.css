@@ -30,6 +30,7 @@
 .col-2 {
   float: left;
   width: 30%;
+  display: block;
 }
 
 .col-1b{
